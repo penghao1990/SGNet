@@ -1,5 +1,13 @@
 # SGNet
 3D object detection combining semantic and geometric features from point clouds
+
+## environment:
+
+    Linux (tested on Ubuntu 20.04 )
+    Python 3.7
+    PyTorch 1.9
+    CUDA 11.1
+
 ## Results on KITTI test set
 
 [Submission link](http://www.cvlibs.net/datasets/kitti/eval_object_detail.php?&result=7ed280afe29100628a32d961d66f3133bfe0d077)
